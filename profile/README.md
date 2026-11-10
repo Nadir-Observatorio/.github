@@ -3,9 +3,9 @@
   <img src="nadir-firma-horizontal-color.svg" alt="Nadir, observatorio de riesgo y exposición" width="420">
 </picture>
 
-Nadir es un observatorio abierto de riesgo y exposición socioambiental en Chile: incendios,
-cambios de cobertura del suelo, recuperación después del fuego y, más adelante, otras amenazas y
-su relación con dónde vive y trabaja la gente.
+Nadir observa el riesgo en Chile: qué amenazas hay, qué queda expuesto a ellas y con qué datos
+se sabe. Cada caso publicado está en [el sitio](https://nadir-observatorio.github.io/casos.html),
+con su mapa, su ficha y su código.
 
 ## Cómo trabaja
 
@@ -18,16 +18,6 @@ su relación con dónde vive y trabaja la gente.
   de cada fuente va con la capa.
 - **Un registro no es una prueba.** Los registros oficiales se presentan con su nombre exacto y
   su alcance. Nadir no afirma causas ni responsabilidades que la fuente no afirme.
-
-## Estado
-
-En preparación. El primer trabajo es un estudio sobre fuego y cobertura del suelo con datos de
-MapBiomas Chile; se publica en este espacio cuando esté terminado y revisado.
-
-## Repositorios
-
-- [`nadir`](https://github.com/nadir-observatorio/nadir): motor de capas y verificación.
-  Código con licencia MIT; los datos derivados conservan la licencia de su fuente.
 
 ## Quién lo hace
 
